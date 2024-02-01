@@ -56,3 +56,7 @@ console.log(String.fromCodePoint([!![]+!![]+!![]+!![]+!![]+!![],!![]+!![]+!![]+!
     ![](https://private-user-images.githubusercontent.com/1210720/301502060-92c105ce-b112-46ea-87ca-fa782f126c6a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY3OTA0MzksIm5iZiI6MTcwNjc5MDEzOSwicGF0aCI6Ii8xMjEwNzIwLzMwMTUwMjA2MC05MmMxMDVjZS1iMTEyLTQ2ZWEtODdjYS1mYTc4MmYxMjZjNmEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDIwMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAyMDFUMTIyMjE5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MmQwZjhiOGQyMjVmOGI3NjUxZDRlMWU2MjFlNGRjZGY2YTk1NjRhNDRmN2NmNGU2NTYxYjZlMmNjYWY4NGIyZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.7af3DVq-u6mWBby_x8rvQ_gOemr0VXCkY_r1eqZzDSU)
 
 10. クーポンコードはこちら `SOURCECODE_COUPON500` 
+
+11. 文中の「Done is better than perfect」はマークザッカーバーグの「完璧であることより、まず終わらせることが重要だ」という意味
+
+12. こんなことしてるより酒の味が変わる前に美味しく飲めと言われている気がする
